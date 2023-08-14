@@ -46,8 +46,8 @@ body>h1{
 }
 
 #testimonial-1 {
-    background-color:  rgb(117, 65, 200);
-    color: #ffffff;
+    background-color: rgb(25, 33, 46);
+    color: white;
     position: relative;
     z-index: 0;
 }
@@ -58,17 +58,17 @@ body>h1{
 }
 
 #testimonial-2 {
-    background-color: rgb(72, 85, 106);
+    background-color: #974EC3;
     color: #ffffff
 }
 
 #testimonial-3, #testimonial-5 {
-    background-color: rgb(255, 255, 255);
-    color: #48556a;
+    background-color: #504099;
+    color: white;
 }
 
 #testimonial-4 {
-    background-color: rgb(25, 33, 46);
+    background-color: #313866;
     color: #ffffff;
 }
 
